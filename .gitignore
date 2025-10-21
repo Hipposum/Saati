@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Видео и аудио файлы
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# Результаты транскрибации
+transcription*.json
+transcription*.txt
+transcription*.srt
+output*.json
+output*.txt
+output*.srt
+
+# Модели
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Временные файлы
+temp/
+tmp/
+*.tmp
